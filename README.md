@@ -4,7 +4,7 @@
 
 
 ## Education
-- M.S., Information Sciences	| School of Information Sciences, University of Pittsburgh (_2015_)	 			        		
+- M.S., Information Sciences	| University of Pittsburgh (_2015_)	 			        		
 - B.E., Computer Science and Engineering | Anna University (_2012_)
 
 ## Work Experience

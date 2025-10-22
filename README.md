@@ -1,11 +1,11 @@
-# Data Scientist
+# Software Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Java, Node JS, AWS Cloud Services, Junit, Groovy, Spring Boot, MySQL, Redis, Postgres, NoSQL, DynamoDB, S3, RDS, SNS, SQS, CloudFront, Terraform, Kafka, Docker, Git, Cloud Services, Devops, Hadoop, Spark, Distributed Systems, Data Structures, Algorithms, Agile, Microservices, REST API, Mockito, Jenkins, Kibana, Datadog, Splunk
+
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Information Sciences	| School of Information Sciences, University of Pittsburgh (_2015_)	 			        		
+- B.E., Computer Science and Engineering | Anna University (_2012_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**

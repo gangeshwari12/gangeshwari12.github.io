@@ -55,7 +55,8 @@ Software Engineer with 7+ years of experience across PayPal, Amazon, and Freshwo
 Developed a Streamlit Dashboard that shows a visualization of fundamental insights on AI Research Papers extracted from OpenAlex API.
 These include insights like top papers by citations, open access statistics and collaboration metrics.
 This uses Streamlit Python library, Cursor AI, Neon Postgres DB and hosted on Streamlit.
-Data source: https://docs.openalex.org/
-[Research Papers Visualization Dashboard](https://gangeshwari12-market-data-pipeline-dashboard-7a881w.streamlit.app/)
+Data source - https://docs.openalex.org/
+
+[View Research Papers Visualization Dashboard](https://gangeshwari12-market-data-pipeline-dashboard-7a881w.streamlit.app/)
 
 

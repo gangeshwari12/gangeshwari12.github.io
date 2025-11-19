@@ -4,7 +4,7 @@
 #### Summary:
 Software Engineer with 7+ years of experience across PayPal, Amazon, and Freshworks in SaaS, e-commerce and enterprise domains. Currently available to work in the U.S. on H4 EAD.(Open to work on previously held H1B as well).
 
-#### Technical Skills:
+### Technical Skills:
 ##### Languages & Frameworks: Java, Node.js, Spring Boot, Groovy, JUnit, Mockito
 ##### Cloud & DevOps: AWS (S3, RDS, DynamoDB, SQS, SNS), Terraform, Docker, Jenkins, Datadog, Kibana, Splunk
 ##### Databases: MySQL, Postgres, Redis, NoSQL
@@ -46,8 +46,16 @@ Software Engineer with 7+ years of experience across PayPal, Amazon, and Freshwo
 
 
 **Career Breaks**
-- Apr 2025 – Present: Relocated to the U.S.; continuing professional development through online tech courses.
+- Apr 2025 – Present: Relocated to the U.S.; continuing professional development through online tech courses and building side projects.
 - 2022–2023: Caregiving; completed online tech courses; volunteered with Grace Hopper Conference 2023 as Software Engineering Track Committee Reviewer
 
+## Projects 2025
+
+### Data visualization of Research Papers Dashboard
+Developed a Streamlit Dashboard that shows a visualization of fundamental insights on AI Research Papers extracted from OpenAlex API.
+These include insights like top papers by citations, open access statistics and collaboration metrics.
+This uses Streamlit Python library, Cursor AI, Neon Postgres DB and hosted on Streamlit.
+Data source: https://docs.openalex.org/
+[Research Papers Visualization Dashboard](https://gangeshwari12-market-data-pipeline-dashboard-7a881w.streamlit.app/)
 
 

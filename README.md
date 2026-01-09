@@ -30,16 +30,17 @@ Software Engineer with 7+ years of experience across PayPal, Amazon, and Freshwo
 - Resolved several support tickets, was given a spot award for resolving a complex issue with a topline customer and consistently called out as one of the superstar performers for 3 quarters for resolving customer issues.
 - Presented story telling sessions on technical topics to a wide audience in the team.
 
-**Senior Software Engineer @ Amazon| Seattle, USA (_Mar 2017 - Oct 2018_)**
+**Software Engineer @ Amazon| Seattle, USA (_Mar 2017 - Oct 2018_)**
 - Backend development of Amazon’s A/B testing Experimentation Platform called Weblab.
 - Designed and developed a ‘User viewed Metric Delays’ reporting and monitoring system that enabled high visibility into customer pain impacting their decision making.
-- Developed and launched a feature that lists triggering counts and page types for experiments that successfully enabled 40% reduction of stale experiments, ensuring safe deactivation of 1k+ stale experiments and is being used by close to 400 users daily for risk and activation monitoring. This feature was highly commended by several customers.
-- Developed an API utility called ‘Bullseye fetcher’ and launched custom segmentation to add targeted segment customer data for running experiment analyses reports.
-- Interaction with customers through tickets and in person office hours and worked on root cause and resolution of operational tickets. (Hadoop, Amazon SWF, EMR, Step functions) Developed ‘Build Lights’ Tool as a side project to monitor status of Build pipelines to drive immediate attention to the team to fix pipeline failures.
+- Developed and launched a feature that lists triggering counts and page types for experiments that
+successfully enabled 40% reduction of stale ones, used by 500+ daily users.
+- Developed ‘Build Lights’ Tool as a side project to monitor status of Build pipelines to drive immediate attention to the team to fix pipeline failures.
+- Interaction with customers through tickets and in person office hours and worked on root cause and resolution of operational tickets.
 
 **Software Engineer @ Notify Technology| Ohio, USA (_Mar 2016 - Mar 2017_)**
 - Full stack development of MDM. Developed new features for iOS 9 enhancements.
-- Designed and developed Geofencing device detection feature.
+- Designed and developed Geofencing device detection feature, supported 20K+ Mac OS X deployments.
 
 **Software Engineer @ Ford Motor Company| Chennai, India (_Jul 2012 - Jul 2014_)**
 - Supported critical plant apps used by 32K users across 72 global plants; received “Top Achiever” award (Top 5%).

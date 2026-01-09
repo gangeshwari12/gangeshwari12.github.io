@@ -59,5 +59,6 @@ This uses Streamlit Python library, Cursor AI, Neon Postgres DB and hosted on St
 Data source - https://docs.openalex.org/
 
 [View Research Papers Visualization Dashboard](https://gangeshwari12-market-data-pipeline-dashboard-7a881w.streamlit.app/)
+[Github link](https://github.com/gangeshwari12/market-data-pipeline/tree/main)
 
 
